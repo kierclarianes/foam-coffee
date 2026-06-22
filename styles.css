@@ -758,7 +758,7 @@ footer p.tag {
 }
 @media (max-width: 560px) {
   .wrap {
-    padding: 0 20px;
+    padding: 10px 20px;
   }
   .nav-inner {
     padding: 16px 20px;
